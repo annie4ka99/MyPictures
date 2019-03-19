@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pictures</string>
+    <string name="title_picture_list">Strange Pictures</string>
+    <string name="title_picture_detail">Picture Detail</string>
+    <string name="default_content_description">no description</string>
+    <string name="query"><![CDATA[https://api.flickr.com/services/feeds/photos_public.gne?tags=strange&format=json]]></string>
+</resources>
